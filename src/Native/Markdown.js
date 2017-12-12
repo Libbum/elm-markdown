@@ -1,4 +1,4 @@
-var _user$project$Native_Markdown = function() {
+var _libbum$elm_markdown$Native_Markdown = function() {
 
 
     // VIRTUAL-DOM WIDGETS
