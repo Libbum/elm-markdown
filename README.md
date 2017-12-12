@@ -1,9 +1,11 @@
 # Markdown in Elm
 
-This package is for markdown parsing and rendering. It is based on the [marked][] project
+This package is for markdown parsing and rendering. It is based on the [markdown-it][] project
 which focuses on speed.
 
-[marked]: https://github.com/chjj/marked
+[markdown-it]: https://github.com/markdown-it/markdown-it
+
+Originally forked from [evancz/elm-markdown](https://github.com/evancz/elm-markdown) to move away from the `marked` backend and to enable a number of `markdown-it` extensions such as `katex` support.
 
 ## Basic Usage
 
